@@ -1,0 +1,59 @@
+.hello{
+  background-color:#C5EFF7;
+  background: url(http://eslhiphop.com/images/fcc/quotebg.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+.well{
+  background-color:#A2DED0;
+  font-size: 40px;
+}
+#input{
+  width:400px;
+}
+#input:onfocus{
+  background-color: yellow;
+}
+.img{
+  width:200px;
+  height:200px;
+  border-radius: 20px;
+}
+.userbio ,.username ,.location,.follower ,.btn,.starrer-pro,.following{
+  text-align: center;
+  font-family: Monotype Corsiva;
+  font-size: 27px;
+  color:#F62459;
+}
+.info{
+  font-family:Monotype Corsiva;
+  font-size: 30px;
+}
+.footer{
+  font-size: 20px;
+  font-family: Monotype Corsiva;
+  vertical-align: bottom;
+  color:blue;
+}
+.fa{
+  font-size: 20px;
+  color:red;
+}
+.fa:hover{
+  font-size:30px;
+}
+.ok:hover{
+  color:red;
+  font-size: 30px;
+}
+#searchUser{
+  width:30%;
+  height:30px;
+  font-size: 15px;
+}
+.me{
+  font-size: 20px;
+  color:blue;
+}
+.me:hover{
+  font-size:25px;
+}
