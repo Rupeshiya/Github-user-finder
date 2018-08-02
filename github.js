@@ -18,7 +18,7 @@ $(document).ready(function(){
         <h3 class="location">${user.location}</h3>
         <h3 class="follower">Followers:-${user.followers}</h3>
         <h3 class="following">Following:-${user.following}</h3>
-        <center style="width:auto"><button type="button" class="btn btn-info btn-large"><a href=${user.html_url} target="_blank" style="font-size:20px; color:black">View Profile</a></button></center>
+        <center style="width:auto"><button type="button" class="btn btn-info btn-large"><a href=${user.html_url} target="_blank" style="font-size:10px">View Profile</a></button></center>
         </div>
         `);
       });
