@@ -1,6 +1,6 @@
-.hello{
+.contents{
   background-color:#C5EFF7;
-  background: url(http://eslhiphop.com/images/fcc/quotebg.jpg) no-repeat center center fixed;
+  background: linear-gradient(to right,rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7) ),url(https://images.unsplash.com/5/unsplash-kitsune-3.jpg?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4d46f11aa55f9a4d6aa32a54176fd3bc&auto=format&fit=crop&w=750&q=80) no-repeat center center fixed;
   background-size: cover;
 }
 .well{
@@ -33,7 +33,7 @@
   font-size: 20px;
   font-family: Monotype Corsiva;
   vertical-align: bottom;
-  color:blue;
+  color:#31fde9;
 }
 .fa{
   font-size: 20px;
@@ -53,8 +53,5 @@
 }
 .me{
   font-size: 20px;
-  color:blue;
-}
-.me:hover{
-  font-size:25px;
+  color:black;
 }
