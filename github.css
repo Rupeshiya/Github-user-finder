@@ -1,6 +1,6 @@
-.hello{
+.contents{
   background-color:#C5EFF7;
-  background: url(http://eslhiphop.com/images/fcc/quotebg.jpg) no-repeat center center fixed;
+  background: linear-gradient(to left,rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5) ),url(https://images.unsplash.com/5/unsplash-kitsune-3.jpg?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4d46f11aa55f9a4d6aa32a54176fd3bc&auto=format&fit=crop&w=750&q=80) no-repeat center center fixed;
   background-size: cover;
 }
 .well{
@@ -14,14 +14,14 @@
   background-color: yellow;
 }
 .img{
-  width:200px;
-  height:200px;
+  width:150px;
+  height:150px;
   border-radius: 20px;
 }
 .userbio ,.username ,.location,.follower ,.btn,.starrer-pro,.following{
   text-align: center;
   font-family: Monotype Corsiva;
-  font-size: 27px;
+  font-size: 25px;
   color:#51f1be;
   font-weight: 1090px;
 }
@@ -33,7 +33,7 @@
   font-size: 20px;
   font-family: Monotype Corsiva;
   vertical-align: bottom;
-  color:blue;
+  color:#31fde9;
 }
 .fa{
   font-size: 20px;
@@ -47,14 +47,20 @@
   font-size: 30px;
 }
 #searchUser{
+  margin-left:30px;
   width:30%;
   height:30px;
-  font-size: 15px;
+  font-size: 13px;
 }
 .me{
   font-size: 20px;
-  color:blue;
+  color:black;
 }
-.me:hover{
-  font-size:25px;
+body{
+  margin:0;
+  padding: 0;
+}
+html{
+  margin:0;
+  padding:0;
 }
